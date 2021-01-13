@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-night/static/css/main.d9b3dd7c.chunk.css",
+    "main.js": "/movie-night/static/js/main.86fccd3b.chunk.js",
+    "main.js.map": "/movie-night/static/js/main.86fccd3b.chunk.js.map",
+    "runtime-main.js": "/movie-night/static/js/runtime-main.a403ec07.js",
+    "runtime-main.js.map": "/movie-night/static/js/runtime-main.a403ec07.js.map",
+    "static/js/2.afa24270.chunk.js": "/movie-night/static/js/2.afa24270.chunk.js",
+    "static/js/2.afa24270.chunk.js.map": "/movie-night/static/js/2.afa24270.chunk.js.map",
+    "static/js/3.0d1881fc.chunk.js": "/movie-night/static/js/3.0d1881fc.chunk.js",
+    "static/js/3.0d1881fc.chunk.js.map": "/movie-night/static/js/3.0d1881fc.chunk.js.map",
+    "index.html": "/movie-night/index.html",
+    "static/css/main.d9b3dd7c.chunk.css.map": "/movie-night/static/css/main.d9b3dd7c.chunk.css.map",
+    "static/js/2.afa24270.chunk.js.LICENSE.txt": "/movie-night/static/js/2.afa24270.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a403ec07.js",
+    "static/js/2.afa24270.chunk.js",
+    "static/css/main.d9b3dd7c.chunk.css",
+    "static/js/main.86fccd3b.chunk.js"
+  ]
+}
