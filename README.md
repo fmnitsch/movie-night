@@ -5,6 +5,7 @@ A personal project to help users search for and save their top-5 movies to a wat
 Makes use of:
 
 - Responsive search function that updates as the user is typing
+- Saving state to local storage so movie picks aren't loss when navigating away
 - Microinteractions to improve accessibility and user experience
 - Clean aesthetic design
 
