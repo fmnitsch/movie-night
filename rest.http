@@ -1,0 +1,5 @@
+GET http://www.omdbapi.com/?apikey=1f00160f&s=rambo&type=movie
+
+###
+
+GET http://www.omdbapi.com/?apikey=1f00160f&i=tt0462499
