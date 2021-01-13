@@ -1,6 +1,6 @@
 # Movie Night
 
-A personal project to help users search for and save their top-5 movies to a watch list. Built using React and using calls to the OMDB Api.
+A personal project to help users search for and save their top-5 movies to a watch list. Built using React and using calls to the OMDB Api (http://www.omdbapi.com/).
 
 Makes use of:
 
