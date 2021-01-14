@@ -1,0 +1,24 @@
+.top-ranked {
+  margin-left: 50px;
+}
+
+.top-5-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  max-width: 1024px;
+  flex-wrap: wrap;
+}
+
+.movie-container-large {
+  height: 400px;
+  width: 180px;
+  margin: 0px 30px 30px 30px;
+}
+
+.movie-poster-large {
+  width: 180px;
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.1);
+}
