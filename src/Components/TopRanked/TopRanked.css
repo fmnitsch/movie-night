@@ -6,7 +6,6 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  max-width: 1024px;
   flex-wrap: wrap;
 }
 
@@ -21,4 +20,25 @@
   padding: 10px;
   border-radius: 3px;
   box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+.loading-container {
+  justify-content: center;
+}
+
+.loading-text {
+  margin-right: 10px;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.loading-spinner {
+  animation: rotation 2s linear infinite;
 }

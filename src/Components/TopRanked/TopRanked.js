@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "./TopRanked.css";
 import OMDB from "../../OMDB";
 import Ranking from "../../Ranking";
+import Refresh from "./Refresh.svg";
 
 function TopRanked(props) {
   const [movies, setMovies] = useState([]);
@@ -65,6 +66,12 @@ function TopRanked(props) {
 
   useEffect(() => {
     getMoviePosters();
+    const loading = document.querySelector(".loading-container");
+    if (!document.querySelector(".movie-container-large")) {
+      loading.style.display = "flex";
+    } else {
+      loading.style.display = "none";
+    }
     return () => {};
   });
 
@@ -78,6 +85,10 @@ function TopRanked(props) {
         <p>Back to search</p>
       </Link>
       <div className="top-5-container">
+        <div className="loading-container">
+          <p className="loading-text">Loading...</p>
+          <img className="loading-spinner" src={Refresh} alt=""></img>
+        </div>
         {movies.map((movie) => {
           return (
             <div key={movie.imdbID} className="movie-container-large">

@@ -26,8 +26,7 @@
 .un-nominate {
   padding: 0rem;
   background-color: rgba(255, 255, 255, 0);
-  color: #004b3e;
-  opacity: 75%;
+  color: #004b3eb6;
   font-size: 0.8rem;
   width: revert;
   height: revert;

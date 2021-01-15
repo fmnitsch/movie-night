@@ -72,10 +72,10 @@ function Nominations(props) {
         })}
       </div>
       <div className="completion-banner">
-        <h2>
+        <p>
           Thanks for picking your 5 movies! Help others choose what to watch by
           submitting your picks below
-        </h2>
+        </p>
         <div className="button-wrapper">
           <Link to="/movie-night/top-ranked">
             <button className="submit-nominations" onClick={props.submit}>
