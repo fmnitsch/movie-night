@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18" height="15" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Refresh</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Refresh" stroke="#222222" stroke-width="2">
+            <polyline id="Path" points="23 1.99780454 23 7.99780454 17 7.99780454"></polyline>
+            <polyline id="Path" points="1 17.9978045 1 11.9978045 7 11.9978045"></polyline>
+            <path d="M3.51,6.99780454 C4.54088164,4.08461619 6.99426717,1.90402278 10.0082867,1.22206281 C13.0223063,0.540102825 16.1754408,1.45215027 18.36,3.63780454 L23,7.99780454 M1,11.9978045 L5.64,16.3578045 C7.82455916,18.5434588 10.9776937,19.4555063 13.9917133,18.7735463 C17.0057328,18.0915863 19.4591184,15.9109929 20.49,12.9978045" id="Shape"></path>
+        </g>
+    </g>
+</svg>
